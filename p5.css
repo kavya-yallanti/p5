@@ -1,0 +1,38 @@
+body{
+    background:url("pk.jpg");
+    background-size: cover;
+    font-family:'oswald',sans-serif;
+.heading{
+    text-align: center  
+    background: orange;
+
+}
+.heading h1{
+    font-style:italic;
+    font-family: 'times new roman',times,serif;
+    text-align: center;
+    color:white;
+    font-size:center;
+}
+.first{
+    text-align: center;
+    color: black;
+
+}
+.firstimage{
+    text-align: center;
+}
+.second{
+    text-align: center;
+    color:black;
+}
+.secondimage{
+    text-align: center;
+}
+.image{
+    width:150px;
+    height:150px;
+    border-radius:100px;
+    margin-left:20px;
+    margin-top:20px;
+}
